@@ -1,0 +1,3 @@
+Author: Marcos de Melo Mario
+
+Exercício: 37.	Receba um número inteiro. Calcule e mostre a série de Fibonacci até o seu N’nésimo termo.
