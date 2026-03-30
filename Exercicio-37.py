@@ -15,5 +15,5 @@ for i in range(1, n+1):
     nProximo = nAnterior + nPresente 
     nAnterior = nPresente
     nPresente = nProximo
-res = nPresente
+res = nAnterior
 #Fim
